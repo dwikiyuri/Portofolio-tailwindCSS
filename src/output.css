@@ -759,10 +759,6 @@ video {
   height: 0.875rem;
 }
 
-.h-32 {
-  height: 8rem;
-}
-
 .h-4 {
   height: 1rem;
 }
@@ -785,10 +781,6 @@ video {
 
 .h-\[50px\] {
   height: 50px;
-}
-
-.h-12 {
-  height: 3rem;
 }
 
 .w-14 {
@@ -864,7 +856,7 @@ video {
 }
 
 .animate-slide-left-infinite {
-  animation: slide-left 20s linear infinite;
+  animation: slide-left 15s linear infinite;
 }
 
 .cursor-pointer {
@@ -911,12 +903,6 @@ video {
 
 .overflow-hidden {
   overflow: hidden;
-}
-
-.truncate {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
 }
 
 .whitespace-nowrap {
